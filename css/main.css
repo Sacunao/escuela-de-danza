@@ -50,6 +50,7 @@
 /*SECTION 3*/
 .dancefondo1{
 	background-image: url(../img/instructor_4.jpg);
+	position: relative;
 }
 .dancefondo2{
 	background-image: url(../img/profesor_9.jpg);
@@ -63,12 +64,13 @@
 }
 .instructores{
 	position: absolute;
+	bottom: 0%;
+	right: -23%;
 	text-decoration: none;
 	border-radius: 5px;
 	color: #C3C6C5;
 	background-color: #020D1C;
 	padding: 10px 80px;
-	margin: 260px 0px 0px 37%;
 }
 /*SECTION 4*/
 .cuatro{
